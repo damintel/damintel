@@ -3,7 +3,7 @@
 
 #### Full-Stack Developer | Mostly Backend 😄
 
-I'm **Damian Thomas Ugbah**, a full-stack software developer. I build scalable applications using **Java, Spring Boot, Python, Django, and JavaScript**. Check out my portfolio: [damithomas.github.io](https://damintel.github.io)
+I'm a full-stack software developer. I build scalable applications using **Java, Spring Boot, Python, Django, and JavaScript**. Check out my portfolio: [damithomas.github.io](https://damintel.github.io)
 
 ---
 
