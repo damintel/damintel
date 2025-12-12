@@ -1,4 +1,5 @@
-### Hello there! 👋 Welcome to my profile.
+### Hello there! 👋 Welcome.
+### I'm Damian Ugbah.
 
 #### Full-Stack Developer | Mostly Backend 😄
 
