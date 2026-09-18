@@ -3,7 +3,7 @@
 
 #### Full-Stack Developer | Mostly Backend 😄
 
-I'm a full-stack software developer. I build scalable applications using **Java, Spring Boot, Python, Django, and JavaScript**. Check out my portfolio: [damithomas.github.io](https://damintel.github.io)
+I'm a full-stack software developer. I build scalable applications using **Java, Spring Boot, Python, Django, and JavaScript**. Check out my portfolio: [damintel.github.io](https://damintel.github.io)
 
 ---
 
@@ -22,7 +22,7 @@ PostgreSQL | MySQL | Git | Docker
 
 ### 📌 Currently
 
-- 🔭 **Working on:** [KuratorPro](https://kuratorpro.com/) – A platform for content creation, curation and management.
+- 🔭 **Working on:** [KuratorPro](https://kuratorpro.com/) – A platform for job document creation, curation and management.
 - 🌱 **Learning:** Advanced Django, AWS cloud services, and system architecture.
 - 👯 **Looking to collaborate:** On backend-heavy projects, SaaS platforms, or API development.
 - 🤔 **Seeking help with:** Scaling applications, DevOps best practices, and code optimization.
